@@ -1,0 +1,15 @@
+.main_menu{
+    @apply py-0 bg-[#fffbf0]
+}
+.menu_row{
+    @apply py-5 flex justify-between items-center
+}
+.menu_logo{
+    @apply w-60
+}
+.menu ul{
+    @apply flex gap-10 
+}
+.menu ul li a{
+    @apply font-oldenburg font-thin text-[#a1622e] text-lg hover:text-black transition-all
+}

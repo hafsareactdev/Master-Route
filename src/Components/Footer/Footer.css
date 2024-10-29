@@ -1,0 +1,12 @@
+.main_footer{
+    @apply w-full py-20 bg-[#a1622e] flex justify-center place-items-center
+}
+.footer_row{
+    @apply flex justify-around w-4/5 py-20 bg-[#fffbf0] rounded-md
+}
+.footer_p{
+    @apply font-oldenburg font-bold text-[#a1622e]
+}
+.footer_menu ul li a{
+    @apply font-oldenburg font-thin text-black
+}
